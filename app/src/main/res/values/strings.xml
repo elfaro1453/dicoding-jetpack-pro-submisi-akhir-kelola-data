@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movie Catalogue</string>
+    <string name="label_movie">Movie</string>
+    <string name="label_tv">TV</string>
+    <string name="judul_tv">Title TV</string>
+    <string name="deskripsi_movie">Description Movie</string>
+    <string name="episodes">%1$d episode(s)</string>
+    <string name="string_judul_tv">%1$s (%2$s)</string>
+    <string name="string_judul_movie">%1$s (%2$d)</string>
+    <string name="judul">Title</string>
+    <string name="tanggal_rilis">Release Date : %1$s</string>
+    <string name="detail">Detail</string>
+    <string name="jumlah_episode">Episode(s)</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="poster_of">Image poster of %1$s</string>
+    <string name="information">Information</string>
+    <string name="status">Status : %1$s</string>
+    <string name="budget">Budget : %1$s</string>
+    <string name="revenue">Income : %1$s</string>
+    <string name="homepage"> Homepage</string>
+    <string name="overview">Overview</string>
+    <string name="reviews">Reviews</string>
+    <string name="season">Seasons : %1$d</string>
+    <string name="noreviews">There isn\'t any review yet</string>
+    <string name="retry">Retry</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="unbookmark">UnBookmark</string>
+    <string name="connection_error">Can\'t connect to server</string>
+</resources>
