@@ -22,9 +22,3 @@ Aplikasi akan error saat pertama kali dijalankan karena anda perlu memasukkan AP
 Buka build.gradle di module.app, ganti bagian YOUR_API_KEY di `buildConfigField("String", "TMDB_API_KEY", "Your_API_Key")` dengan api_key yang anda dapatkan sebelumnya.
 
 Semoga bermanfaat.
-
-Penilaian dari reviewer :
-
-<img src="/images/progress-class-jetpack-pro.jpg" width="40%" /> 
-
-Note : Saya lupa mencantumkan _student notes_ bahwa saya menggunakan Material Design (meski tampilannya sedehana banget) jadi tidak dapat bintang 5 lagi :( 
