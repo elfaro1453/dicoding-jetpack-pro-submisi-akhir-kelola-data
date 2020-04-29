@@ -9,7 +9,9 @@ Saya lebih fokus pada kode program daripada kode UI/UX, so bahas kode programnya
   * Ditulis dengan [Kotlin](https://kotlinlang.org "Kotlin Lang")
   * Localization Support
   * [View Binding](https://developer.android.com/topic/libraries/view-binding) sebagai pengganti findViewbyId dan Kotlin Synthetic
-  * [Data Binding](https://developer.android.com/topic/libraries/data-binding) agar lebih mudah observe livedata
+  * [Data Binding](https://developer.android.com/topic/libraries/data-binding) untuk kemudahan interaksi livedata dan UI
+  * [Live Data](https://developer.android.com/topic/libraries/architecture/livedata) dan [MediatorLiveData](https://developer.android.com/reference/android/arch/lifecycle/MediatorLiveData) untuk mengkombinasikan beberapa livedata
+  * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) dan [Repositorynya](https://developer.android.com/jetpack/docs/guide#recommended-app-arch)
   * [Retrofit](https://square.github.io/retrofit) sebagai API client
   * [Google GSON](https://github.com/google/gson) sebagai JSON converter ke Kotlin data class
   * [Paging Library](https://developer.android.com/topic/libraries/architecture/paging) untuk membuat efek Endless RecyclerView.
